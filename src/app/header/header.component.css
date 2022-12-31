@@ -1,0 +1,17 @@
+.header{
+    width:100%;
+    color:red;
+    background-color:Blue;
+}
+.menu{
+    margin:0px;
+    padding:10px;
+    display: flex;
+    list-style: none;
+    align-items:center;
+    align-content:center;
+}
+
+.logo{
+    width:200px;
+}
